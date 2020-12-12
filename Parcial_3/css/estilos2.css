@@ -1,0 +1,64 @@
+body {
+    background-image: url('fondo-login.jpg');
+    background-size: 100% ;
+    background-repeat: no-repeat;
+    /* position: absolute;
+    z-index: -1;
+    left: 0;
+    top: 0;
+    width: 1366px;
+    height: 657px; */
+}
+
+/* .card .perfil {
+    
+    width: 50%;
+    height: 9rem;
+    border-radius: 100%;
+    background-image: url('degradado.jpg');
+} */
+
+.navbar{
+    background-color: rgba(0, 148, 216, 0.726);
+}
+.card{
+    border-radius: 0%;
+    background-color: rgb(255, 255, 255);
+}
+
+.cuadros{
+    border-radius: 1%;
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+
+.list-group .list-group-flush{
+    background-color: rgb(255, 255, 255);
+}
+
+.opc{
+
+    background-color: rgb(255, 255, 255);
+}
+
+a{
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: white;
+    background-color: rgba(0, 148, 216, 0.726);
+    text-decoration: none;
+}
+
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+input[type=number] { -moz-appearance:textfield; }

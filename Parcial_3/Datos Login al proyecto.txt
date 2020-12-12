@@ -1,0 +1,14 @@
+Parcial 3 de Desarrollo de aplicaciones web 1 
+
+Estudiantes: Andrés Arrieta
+	     Naiver Anillo
+             Yarelis Polo
+
+Profesor en este documento adjuntamo la base de datos 
+y el codigo del proyecto.
+
+los datos para que el login del proyecto son los siguientes:
+
+Usuario: bibliotecario
+Cedula: 12345678
+
